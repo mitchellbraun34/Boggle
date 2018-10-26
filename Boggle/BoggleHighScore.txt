@@ -1,0 +1,11 @@
+0 Cox 30
+1 Turner 4
+2 nbj 2
+3 Mi 0
+4 Mi 0
+5 M 0
+6 M 0
+7 asd 0
+8 mk 0
+9 mk 0
+10 nk 0
