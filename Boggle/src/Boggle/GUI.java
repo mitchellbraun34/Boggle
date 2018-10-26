@@ -57,7 +57,7 @@ public class GUI extends Board {
 	public GUI() throws FileNotFoundException {
 
 		mirror = new String[4][4];
-		frame = new JFrame("Will's BEST BOGGLE");
+		frame = new JFrame("Mitchell's Boggle!");
 		MainPanel = new JPanel();
 		SecondaryPanel = new JPanel();
 		StartButton = new JButton("Start");
